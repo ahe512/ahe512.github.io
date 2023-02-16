@@ -139,8 +139,6 @@ http://111.40.196.38/PLTV/88888888/224/3221225544/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/1.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳门资讯
-http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN国际频道
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN记录频道
