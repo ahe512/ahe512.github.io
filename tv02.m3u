@@ -12,8 +12,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K
 http://39.134.19.228:6410/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",cctv-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226457/1.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",cctv-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",cctv-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226583/1.m3u8
@@ -275,6 +273,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226386/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",延安-2
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226387/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",镇巴
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226457/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",杨凌
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226373/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",榆林
