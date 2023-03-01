@@ -187,8 +187,6 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新华中文
 http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新华中文
-https://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新华英文
 https://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新华英文
