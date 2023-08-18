@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央",CCTV4K超高清超高清
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png " group-title="央视",CCTV-1综合
 http://111.40.196.33/PLTV/88888888/224/3221225769/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png " group-title="央视",CCTV-2财经
@@ -9,6 +19,8 @@ http://111.40.196.29/PLTV/88888888/224/3221225588/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png " group-title="央视",CCTV-4中文国际
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png " group-title="央视",CCTV-5体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225837/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png " group-title="央视",CCTV-5体育
 http://123.6.9.146:80/live/jz-cctv-5/live.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png " group-title="央视",CCTV-5+体育赛事
@@ -51,8 +63,6 @@ http://39.134.65.162/PLTV/88888888/224/3221225513/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png " group-title="央视",CCTV-17农村农业
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中央",CCTV4K超高清超高清
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png " group-title="卫视",北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png " group-title="卫视",东方卫视
@@ -95,14 +105,10 @@ http://111.40.196.34/PLTV/88888888/224/3221225593/index.m3u8
 http://111.40.196.38/PLTV/88888888/224/3221225544/index.m3u8
 #EXTINF:-1 ,南方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/1.m3u8
-#EXTINF:-1 ,百事通
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225837/1.m3u8
 #EXTINF:-1 ,澳视葡文
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 #EXTINF:-1 ,澳门资讯
 http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
-#EXTINF:-1 ,澳门卫星
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png " group-title="央视",CGTN国际频道
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png " group-title="央视",CGTN记录频道
@@ -177,8 +183,6 @@ http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 http://live.lytv.net.cn/zhpwd/hd/live.m3u8
 #EXTINF:-1 ,龙岩公共
 http://live.lytv.net.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 ,红牛运动
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 ,澎博财经
 https://liveprodeuwest.akamaized.net:443/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 ,CNA亚洲新闻
@@ -201,27 +205,7 @@ http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 ,朝鲜中央台
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 ,阿里郎电视
-http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
-#EXTINF:-1 ,大爱一台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 ,大爱二台
-https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 ,J1
-https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 ,FOX新闻
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 ,莲花卫视
-http://epg.112114.xyz/lotus
 #EXTINF:-1 ,好消息综合台
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-#EXTINF:-1 ,地理野生
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
