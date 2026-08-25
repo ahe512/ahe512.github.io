@@ -165,7 +165,6 @@ ViuTV,http://r.jdshipin.com/vSJvl#http://r.jdshipin.com/TcKr2
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
 哈尔滨都市咨询,http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
-四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四海钓鱼,http://mg.cttv.vip/637444975#http://120.76.248.139/live/bfgd/4200000229.m3u8
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 宜兴新闻综合,http://mg.cttv.vip/955227996
@@ -189,7 +188,6 @@ ViuTV,http://r.jdshipin.com/vSJvl#http://r.jdshipin.com/TcKr2
 林正英影院,http://107.150.60.122/live/lblzy.m3u8#http://192.151.150.154/live/lblzy.m3u8#http://198.204.228.26/live/lblzy.m3u8
 梨园频道,http://mg.cttv.vip/961930369
 橙记港剧,http://www.goodiptv.club/douyu/4549169
-武术世界,http://mg.cttv.vip/958475359
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 江西新闻,http://107.150.60.122/live/jxtv7.m3u8#http://192.151.150.154/live/jxtv7.m3u8#http://198.204.228.26/live/jxtv7.m3u8
 江阴新闻综合,http://mg.cttv.vip/955227979
