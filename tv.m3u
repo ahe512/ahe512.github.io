@@ -233,11 +233,11 @@ http://173.208.212.130:8181/1080p/cctv17.m3u8
 http://192.151.150.154/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业
 http://mg.cttv.vip/673168256
-#EXTINF:-1 tvg-name="重温经典" group-title="央视",重温经典
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/重温经典.png" group-title="央视",重温经典
 http://107.150.60.122/live/cwjd.m3u8
-#EXTINF:-1 tvg-name="重温经典" group-title="央视",重温经典
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/重温经典.png" group-title="央视",重温经典
 http://192.151.150.154/live/cwjd.m3u8
-#EXTINF:-1 tvg-name="重温经典" group-title="央视",重温经典
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/重温经典.png" group-title="央视",重温经典
 http://198.204.228.26/live/cwjd.m3u8
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV电视指南.png" group-title="数字付费",电视指南
 http://107.150.60.122/live/dszn.m3u8
@@ -631,7 +631,7 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 http://r.jdshipin.com/Voac4
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB星河.png" group-title="港澳台",TVB星河
 http://r.jdshipin.com/sXuuD
-#EXTINF:-1 tvg-name="环球电视" group-title="港澳台",环球电视台
+#EXTINF:-1 tvg-name="环球电视" group-title="其他",环球电视
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",卡酷少儿
 http://103.72.172.253:8041/hls/385413834/index.m3u8
@@ -647,11 +647,11 @@ http://107.150.60.122/live/chcdz.m3u8
 http://192.151.150.154/live/chcdz.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="影视频道",动作电影
 http://198.204.228.26/live/chcdz.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" group-title="其他",CHC家庭影院
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视频道",CHC家庭影院
 http://107.150.60.122/live/chcjt.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" group-title="其他",CHC家庭影院
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视频道",CHC家庭影院
 http://192.151.150.154/live/chcjt.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" group-title="其他",CHC家庭影院
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视频道",CHC家庭影院
 http://198.204.228.26/live/chcjt.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" group-title="影视频道",影迷电影
 http://107.150.60.122/live/chchd.m3u8
