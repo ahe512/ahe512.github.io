@@ -859,7 +859,7 @@ http://mg.cttv.vip/956909356
 http://mg.cttv.vip/915512915
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="数字付费",武术世界
 http://mg.cttv.vip/958475359
-#EXTINF:-1 tvg-name="经典香港电影" group-title="香港",经典香港电影
+#EXTINF:-1 tvg-name="经典香港电影" group-title="港澳台",经典香港电影
 http://mg.cttv.vip/625703337
 #EXTINF:-1 tvg-name="抗战经典影片" group-title="其他",抗战经典影片
 http://mg.cttv.vip/617432318
@@ -921,7 +921,7 @@ http://61.221.215.25:8800/hls/39/index.m3u8
 http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 #EXTINF:-1 tvg-name="韩国EBS少儿" group-title="其他",韩国EBS少儿
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-name="澳门莲花" group-title="澳门",澳门莲花
+#EXTINF:-1 tvg-name="澳门莲花" group-title="港澳台",澳门莲花
 http://r.jdshipin.com/5DWJk
 #EXTINF:-1 tvg-name="古装武侠" group-title="其他",古装武侠
 http://www.goodiptv.club/douyu/2793084
