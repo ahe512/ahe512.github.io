@@ -101,6 +101,8 @@ CHC影迷电影,http://107.150.60.122/live/chchd.m3u8#http://192.151.150.154/liv
 北京纪实科教,http://103.72.172.253:8041/hls/347295318/index.m3u8#http://198.204.228.26/live/btv3.m3u8
 陕西地方,#genre#
 西安新闻,http://112.46.105.20:8009/hls/28/index.m3u8
+福建地方,#genre#
+海峡卫视,http://r.jdshipin.com/WtYt3
 广东地方,#genre#
 广东珠江,http://107.150.60.122/live/gdzj.m3u8#http://107.150.60.122/live/gdzja.m3u8#http://192.151.150.154/live/gdzj.m3u8#http://192.151.150.154/live/gdzja.m3u8#http://198.204.228.26/live/gdzj.m3u8#http://198.204.228.26/live/gdzja.m3u8#http://r.jdshipin.com/sE5vO
 广东新闻,http://107.150.60.122/live/gdxw.m3u8#http://107.150.60.122/live/gdxwa.m3u8#http://192.151.150.154/live/gdxwa.m3u8#http://198.204.228.26/live/gdxw.m3u8#http://198.204.228.26/live/gdxwa.m3u8
@@ -117,6 +119,7 @@ CHC影迷电影,http://107.150.60.122/live/chchd.m3u8#http://192.151.150.154/liv
 其它,#genre#
 ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+HOY TV,http://r.jdshipin.com/sFw4S
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 TVB Plus,http://r.jdshipin.com/Nr5jq#http://r.jdshipin.com/ndGgS
 ViuTV,http://r.jdshipin.com/vSJvl#http://r.jdshipin.com/TcKr2
@@ -172,6 +175,7 @@ ViuTV,http://r.jdshipin.com/vSJvl#http://r.jdshipin.com/TcKr2
 湖南教育,http://107.150.60.122/live/hnjy.m3u8#http://192.151.150.154/live/hnjy.m3u8#http://198.204.228.26/live/hnjy.m3u8
 澳视卫星,http://r.jdshipin.com/QFhCq
 澳视澳门,http://r.jdshipin.com/n2YZI
+澳门莲花,http://r.jdshipin.com/5DWJk
 热门港剧,http://www.goodiptv.club/douyu/5522351
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
@@ -196,6 +200,7 @@ ViuTV,http://r.jdshipin.com/vSJvl#http://r.jdshipin.com/TcKr2
 都市青春,http://112.46.105.20:8009/hls/19/index.m3u8
 金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
+长影频道,http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 陕西秦腔,http://112.46.105.20:8009/hls/22/index.m3u8
 陕西银龄,http://112.46.105.20:8009/hls/20/index.m3u8
 青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
