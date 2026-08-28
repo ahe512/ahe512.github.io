@@ -108,7 +108,7 @@ CHC影迷电影,http://107.150.60.122/live/chchd.m3u8#http://192.151.150.154/liv
 广东新闻,http://107.150.60.122/live/gdxw.m3u8#http://107.150.60.122/live/gdxwa.m3u8#http://192.151.150.154/live/gdxwa.m3u8#http://198.204.228.26/live/gdxw.m3u8#http://198.204.228.26/live/gdxwa.m3u8
 广东民生,http://107.150.60.122/live/gdgg.m3u8#http://192.151.150.154/live/gdgg.m3u8#http://198.204.228.26/live/gdgg.m3u8
 广东体育,http://107.150.60.122/live/gdty.m3u8#http://192.151.150.154/live/gdty.m3u8#http://198.204.228.26/live/gdty.m3u8#http://r.jdshipin.com/LiYdg
-大湾区卫视,http://107.150.60.122/live/gdgj.m3u8#http://192.151.150.154/live/gdgj.m3u8#http://198.204.228.26/live/gdgj.m3u8#http://222.128.55.152:9080/live/dwq.m3u8
+大湾区卫视,http://107.150.60.122/live/gdgj.m3u8#http://192.151.150.154/live/gdgj.m3u8#http://198.204.228.26/live/gdgj.m3u8
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 广东少儿,http://107.150.60.122/live/gdtvs5.m3u8#http://192.151.150.154/live/gdtvs5.m3u8#http://198.204.228.26/live/gdtvs5.m3u8
 广西地方,#genre#
@@ -144,7 +144,6 @@ ViuTV,http://r.jdshipin.com/vSJvl#http://r.jdshipin.com/TcKr2
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
-哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
 哈尔滨都市咨询,http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8
@@ -198,6 +197,7 @@ ViuTV,http://r.jdshipin.com/vSJvl#http://r.jdshipin.com/TcKr2
 辽宁都市,http://120.76.248.139/live/bfgd/4200000068.m3u8#http://120.76.248.139/live/bfgd/4200000610.m3u8
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 都市青春,http://112.46.105.20:8009/hls/19/index.m3u8
+长影频道,http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 陕西秦腔,http://112.46.105.20:8009/hls/22/index.m3u8
 陕西银龄,http://112.46.105.20:8009/hls/20/index.m3u8
 青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
