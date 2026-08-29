@@ -160,11 +160,17 @@ http://mg.cttv.vip/624878405
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://tb.zbds.top/logo/CCTV11.png" group-title="央视频道",CCTV11
 http://107.150.60.122/live/cctv11hd.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://tb.zbds.top/logo/CCTV11.png" group-title="央视频道",CCTV11
+http://173.208.212.130:8181/1080p/cctv11.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://tb.zbds.top/logo/CCTV11.png" group-title="央视频道",CCTV11
+http://173.208.212.130:8181/720p/cctv11.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://tb.zbds.top/logo/CCTV11.png" group-title="央视频道",CCTV11
 http://192.151.150.154/live/cctv11hd.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://tb.zbds.top/logo/CCTV11.png" group-title="央视频道",CCTV11
 http://198.204.228.26/live/cctv11hd.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://tb.zbds.top/logo/CCTV11.png" group-title="央视频道",CCTV11
 http://bztv.tvbus.cc:8081/cdnlive/cctv11.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://tb.zbds.top/logo/CCTV11.png" group-title="央视频道",CCTV11
+http://mg.cttv.vip/667987558
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://tb.zbds.top/logo/CCTV12.png" group-title="央视频道",CCTV12
 http://107.150.60.122/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://tb.zbds.top/logo/CCTV12.png" group-title="央视频道",CCTV12
@@ -323,6 +329,16 @@ http://192.151.150.154/live/hjjc.m3u8
 http://198.204.228.26/live/hjjc.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://tb.zbds.top/logo/怀旧剧场.png" group-title="付费频道",怀旧剧场
 http://bztv.tvbus.cc:8081/cdnlive/hjjc.m3u8
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://tb.zbds.top/logo/央视台球.png" group-title="付费频道",央视台球
+http://107.150.60.122/live/ystq.m3u8
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://tb.zbds.top/logo/央视台球.png" group-title="付费频道",央视台球
+http://173.208.212.130:8181/720p/ystq.m3u8
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://tb.zbds.top/logo/央视台球.png" group-title="付费频道",央视台球
+http://192.151.150.154/live/ystq.m3u8
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://tb.zbds.top/logo/央视台球.png" group-title="付费频道",央视台球
+http://198.204.228.26/live/ystq.m3u8
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://tb.zbds.top/logo/央视台球.png" group-title="付费频道",央视台球
+http://bztv.tvbus.cc:8081/cdnlive/ystq.m3u8
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://tb.zbds.top/logo/天元围棋.png" group-title="付费频道",天元围棋
 http://107.150.60.122/live/gztywq.m3u8
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://tb.zbds.top/logo/天元围棋.png" group-title="付费频道",天元围棋
@@ -799,10 +815,6 @@ http://107.150.60.122/live/gxzy.m3u8
 http://192.151.150.154/live/gxzy.m3u8
 #EXTINF:-1 tvg-name="广西综艺" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GUANXI2/GUANXI2_140x140.png" group-title="地方频道",广西综艺旅游
 http://198.204.228.26/live/gxzy.m3u8
-#EXTINF:-1 tvg-name="央视台球台" group-title="其他",央视台球台
-http://198.204.228.26/live/ystq.m3u8
-#EXTINF:-1 tvg-name="央视台球台" group-title="其他",央视台球台
-http://107.150.60.122/live/ystq.m3u8
 #EXTINF:-1 tvg-name="广西都市" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GUANXI3/GUANXI3_140x140.png" group-title="地方频道",广西都市频道
 http://107.150.60.122/live/gxds.m3u8
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUNANTV3/HUNANTV3_140x140.png" group-title="地方频道",湖南娱乐频道
@@ -817,8 +829,6 @@ http://107.150.60.122/live/lbcl.m3u8
 http://107.150.60.122/live/lbzxc.m3u8
 #EXTINF:-1 tvg-name="林正英影院" group-title="其他",林正英影院
 http://107.150.60.122/live/lblzy.m3u8
-#EXTINF:-1 tvg-name="央视台球台" group-title="其他",央视台球台
-http://192.151.150.154/live/ystq.m3u8
 #EXTINF:-1 tvg-name="广西都市" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GUANXI3/GUANXI3_140x140.png" group-title="地方频道",广西都市频道
 http://192.151.150.154/live/gxds.m3u8
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUNANTV3/HUNANTV3_140x140.png" group-title="地方频道",湖南娱乐频道
@@ -847,16 +857,6 @@ http://198.204.228.26/live/lbcl.m3u8
 http://198.204.228.26/live/lbzxc.m3u8
 #EXTINF:-1 tvg-name="林正英影院" group-title="其他",林正英影院
 http://198.204.228.26/live/lblzy.m3u8
-#EXTINF:-1 tvg-name="央视台球台" group-title="其他",央视台球台
-http://bztv.tvbus.cc:8081/cdnlive/ystq.m3u8
-#EXTINF:-1 tvg-name="CCTV11台" group-title="其他",CCTV11台
-http://173.208.212.130:8181/720p/cctv11.m3u8
-#EXTINF:-1 tvg-name="央视台球台" group-title="其他",央视台球台
-http://173.208.212.130:8181/720p/ystq.m3u8
-#EXTINF:-1 tvg-name="CCTV11台" group-title="其他",CCTV11台
-http://173.208.212.130:8181/1080p/cctv11.m3u8
-#EXTINF:-1 tvg-name="CCTV11台" group-title="其他",CCTV11台
-http://mg.cttv.vip/667987558
 #EXTINF:-1 tvg-name="上海新闻综合" group-title="上海",上海新闻综合
 http://mg.cttv.vip/651632657
 #EXTINF:-1 tvg-name="盐城新闻综合" group-title="江苏",盐城新闻综合
@@ -983,9 +983,11 @@ http://r.jdshipin.com/vSJvl
 http://r.jdshipin.com/TcKr2
 #EXTINF:-1 tvg-name="HOY TV" group-title="其他",HOY TV
 http://r.jdshipin.com/sFw4S
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://tb.zbds.top/logo/美亚电影台.png" group-title="港澳台",美亚电影台
+http://iptv.4666888.xyz/iptv2A.php?id=30
 #EXTINF:-1 tvg-name="台视新闻" group-title="港澳台",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="三立戏剧" group-title="港澳台",三立戏剧
+#EXTINF:-1 tvg-name="三立戏剧台" tvg-logo="https://tb.zbds.top/logo/三立戏剧台.png" group-title="港澳台",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-name="美亚C+" group-title="其他",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
