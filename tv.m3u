@@ -235,11 +235,11 @@ http://173.208.212.130:8181/1080p/cctv17.m3u8
 http://192.151.150.154/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://tb.zbds.top/logo/CCTV17.png" group-title="央视频道",CCTV17
 http://mg.cttv.vip/673168256
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/重温经典.png" group-title="付费频道",重温经典
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/重温经典.png" group-title="影视频道",重温经典
 http://107.150.60.122/live/cwjd.m3u8
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/重温经典.png" group-title="付费频道",重温经典
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/重温经典.png" group-title="影视频道",重温经典
 http://192.151.150.154/live/cwjd.m3u8
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/重温经典.png" group-title="付费频道",重温经典
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/重温经典.png" group-title="影视频道",重温经典
 http://198.204.228.26/live/cwjd.m3u8
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV电视指南.png" group-title="付费频道",CCTV电视指南
 http://107.150.60.122/live/dszn.m3u8
@@ -315,8 +315,6 @@ http://107.150.60.122/live/sjdl.m3u8
 http://173.208.212.130:8181/720p/sjdl.m3u8
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://tb.zbds.top/logo/世界地理.png" group-title="付费频道",世界地理
 http://192.151.150.154/live/sjdl.m3u8
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://tb.zbds.top/logo/世界地理.png" group-title="付费频道",世界地理
-http://198.204.228.26/live/sjdl.m3u8
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://tb.zbds.top/logo/世界地理.png" group-title="付费频道",世界地理
 http://bztv.tvbus.cc:8081/cdnlive/sjdl.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://tb.zbds.top/logo/怀旧剧场.png" group-title="付费频道",怀旧剧场
@@ -413,6 +411,8 @@ http://107.150.60.122/live/gdwshd.m3u8
 http://173.208.212.130:8181/720p/gdws.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://tb.zbds.top/logo/广东卫视.png" group-title="卫视频道",广东卫视
 http://192.151.150.154/live/gdwshd.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://tb.zbds.top/logo/广东卫视.png" group-title="卫视频道",广东卫视
+http://198.204.228.26/live/gdwshd.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://tb.zbds.top/logo/广西卫视.png" group-title="卫视频道",广西卫视
 http://107.150.60.122/live/gxwshd.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://tb.zbds.top/logo/广西卫视.png" group-title="卫视频道",广西卫视
@@ -657,7 +657,7 @@ http://192.151.150.154/live/chchd.m3u8
 http://198.204.228.26/live/chchd.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://tb.zbds.top/logo/CHC影迷电影.png" group-title="影视频道",CHC影迷电影
 http://mg.cttv.vip/952383261
-#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://tb.zbds.top/logo/发现之旅.png" group-title="地方频道",发现之旅
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://tb.zbds.top/logo/发现之旅.png" group-title="付费频道",发现之旅
 http://mg.cttv.vip/624878970
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/中学生.png" group-title="付费频道",中学生
 http://mg.cttv.vip/708869532
@@ -739,8 +739,6 @@ http://192.151.150.154/live/gdgj.m3u8
 http://198.204.228.26/live/gdgj.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://tb.zbds.top/logo/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://222.128.55.152:9080/live/dwq.m3u8
-#EXTINF:-1 tvg-name="南国都市" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/guangdong/Guangzhou6.png" group-title="地方频道",南国都市
-http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://tb.zbds.top/logo/广东少儿.png" group-title="地方频道",广东少儿
 http://107.150.60.122/live/gdtvs5.m3u8
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://tb.zbds.top/logo/广东少儿.png" group-title="地方频道",广东少儿
@@ -853,6 +851,8 @@ http://mg.cttv.vip/637444975
 http://mg.cttv.vip/956909356
 #EXTINF:-1 tvg-name="24小时城市联赛轮播台" tvg-logo="https://tb.zbds.top/logo/24小时城市联赛轮播台.png" group-title="地方频道",24小时城市联赛轮播台
 http://mg.cttv.vip/915512915
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://tb.zbds.top/logo/武术世界.png" group-title="地方频道",武术世界
+http://mg.cttv.vip/958475359
 #EXTINF:-1 tvg-name="经典香港电影" tvg-logo="https://tb.zbds.top/logo/经典香港电影.png" group-title="地方频道",经典香港电影
 http://mg.cttv.vip/625703337
 #EXTINF:-1 tvg-name="抗战经典影片" group-title="其他",抗战经典影片
@@ -999,10 +999,6 @@ http://120.76.248.139/live/bfgd/4200000480.m3u8
 http://120.76.248.139/live/bfgd/4200000068.m3u8
 #EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://tb.zbds.top/logo/辽宁都市.png" group-title="地方频道",辽宁都市
 http://120.76.248.139/live/bfgd/4200000610.m3u8
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://tb.zbds.top/logo/广州综合.png" group-title="地方频道",广州综合
-http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://tb.zbds.top/logo/广州新闻.png" group-title="地方频道",广州新闻
-http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 #EXTINF:-1 tvg-name="番禺综合" group-title="广东",番禺综合
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 #EXTINF:-1 tvg-name="河源综合" tvg-logo="https://tb.zbds.top/logo/河源综合.png" group-title="地方频道",河源综合
@@ -1033,8 +1029,6 @@ http://112.46.105.20:8009/hls/20/index.m3u8
 http://112.46.105.20:8009/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="西安都市" tvg-logo="https://tb.zbds.top/logo/西安都市.png" group-title="地方频道",西安都市
 http://112.46.105.20:8009/hls/29/index.m3u8
-#EXTINF:-1 tvg-name="长影频道" tvg-logo="https://tb.zbds.top/logo/长影频道.png" group-title="地方频道",长影频道
-http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="江夏新闻综合" tvg-logo="https://tb.zbds.top/logo/江夏新闻综合.png" group-title="地方频道",江夏新闻综合
 http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 #EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://tb.zbds.top/logo/哈尔滨新闻综合.png" group-title="地方频道",哈尔滨新闻综合
