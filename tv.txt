@@ -46,7 +46,7 @@ CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LST
 北京卫视,http://103.72.172.253:8041/hls/345649569/index.m3u8#http://107.150.60.122/live/bjwshd.m3u8#http://173.208.212.130:8181/720p/bjws.m3u8#http://192.151.150.154/live/bjwshd.m3u8#http://198.204.228.26/live/bjwshd.m3u8#http://bztv.tvbus.cc:8081/cdnlive/bjws.m3u8#http://mg.cttv.vip/630287636
 安徽卫视,http://173.208.212.130:8181/720p/ahws.m3u8#http://198.204.228.26/live/ahwshd.m3u8#http://bztv.tvbus.cc:8081/cdnlive/ahws.m3u8
 兵团卫视,http://mg.cttv.vip/956923145
-东方卫视,http://107.150.60.122/live/dfwshd.m3u8#http://mg.cttv.vip/651632648
+东方卫视,http://107.150.60.122/live/dfwshd.m3u8
 东南卫视,http://107.150.60.122/live/dnwshd.m3u8#http://198.204.228.26/live/dnwshd.m3u8#http://bztv.tvbus.cc:8081/cdnlive/dnws.m3u8
 广东卫视,http://107.150.60.122/live/gdwshd.m3u8#http://173.208.212.130:8181/720p/gdws.m3u8#http://192.151.150.154/live/gdwshd.m3u8#http://198.204.228.26/live/gdwshd.m3u8
 广西卫视,http://107.150.60.122/live/gxwshd.m3u8#http://112.30.73.119:9901/tsfile/live/1405_1.m3u8?key=txiptv&playlive=0&authid=0#http://192.151.150.154/live/gxwshd.m3u8#http://bztv.tvbus.cc:8081/cdnlive/gxws.m3u8
@@ -119,7 +119,7 @@ CHC影迷电影,http://107.150.60.122/live/chchd.m3u8#http://192.151.150.154/liv
 海峡卫视,http://r.jdshipin.com/WtYt3
 广东地方,#genre#
 广东珠江,http://107.150.60.122/live/gdzj.m3u8#http://107.150.60.122/live/gdzja.m3u8#http://192.151.150.154/live/gdzj.m3u8#http://192.151.150.154/live/gdzja.m3u8#http://198.204.228.26/live/gdzj.m3u8#http://198.204.228.26/live/gdzja.m3u8#http://r.jdshipin.com/sE5vO
-广东新闻,http://107.150.60.122/live/gdxwa.m3u8#http://192.151.150.154/live/gdxwa.m3u8#http://198.204.228.26/live/gdxw.m3u8#http://198.204.228.26/live/gdxwa.m3u8
+广东新闻,http://107.150.60.122/live/gdxw.m3u8#http://107.150.60.122/live/gdxwa.m3u8#http://192.151.150.154/live/gdxwa.m3u8#http://198.204.228.26/live/gdxw.m3u8#http://198.204.228.26/live/gdxwa.m3u8
 广东民生,http://107.150.60.122/live/gdgg.m3u8#http://192.151.150.154/live/gdgg.m3u8#http://198.204.228.26/live/gdgg.m3u8
 广东体育,http://107.150.60.122/live/gdty.m3u8#http://192.151.150.154/live/gdty.m3u8#http://198.204.228.26/live/gdty.m3u8#http://r.jdshipin.com/LiYdg
 大湾区卫视,http://107.150.60.122/live/gdgj.m3u8#http://192.151.150.154/live/gdgj.m3u8#http://198.204.228.26/live/gdgj.m3u8#http://222.128.55.152:9080/live/dwq.m3u8
