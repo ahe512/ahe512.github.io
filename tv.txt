@@ -13,7 +13,7 @@ CCTV7,http://107.150.60.122/live/cctv7hd.m3u8#http://173.208.212.130:8181/1080p/
 CCTV8,http://107.150.60.122/live/cctv8hd.m3u8#http://173.208.212.130:8181/1080p/cctv8.m3u8#http://173.208.212.130:8181/720p/cctv8.m3u8#http://192.151.150.154/live/cctv8hd.m3u8#http://198.204.228.26/live/cctv8hd.m3u8#http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8#http://mg.cttv.vip/624878356
 CCTV9,http://107.150.60.122/live/cctv9hd.m3u8#http://173.208.212.130:8181/720p/cctv9.m3u8#http://192.151.150.154/live/cctv9hd.m3u8#http://198.204.228.26/live/cctv9hd.m3u8#http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8#http://mg.cttv.vip/673168140
 CCTV10,http://107.150.60.122/live/cctv10hd.m3u8#http://173.208.212.130:8181/1080p/cctv10.m3u8#http://192.151.150.154/live/cctv10hd.m3u8#http://198.204.228.26/live/cctv10hd.m3u8#http://mg.cttv.vip/624878405
-CCTV11,http://107.150.60.122/live/cctv11hd.m3u8#http://192.151.150.154/live/cctv11hd.m3u8#http://198.204.228.26/live/cctv11hd.m3u8#http://bztv.tvbus.cc:8081/cdnlive/cctv11.m3u8
+CCTV11,http://107.150.60.122/live/cctv11hd.m3u8#http://173.208.212.130:8181/1080p/cctv11.m3u8#http://173.208.212.130:8181/720p/cctv11.m3u8#http://192.151.150.154/live/cctv11hd.m3u8#http://198.204.228.26/live/cctv11hd.m3u8#http://bztv.tvbus.cc:8081/cdnlive/cctv11.m3u8#http://mg.cttv.vip/667987558
 CCTV12,http://107.150.60.122/live/cctv12hd.m3u8#http://173.208.212.130:8181/1080p/cctv12.m3u8#http://173.208.212.130:8181/720p/cctv12.m3u8#http://198.204.228.26/live/cctv12hd.m3u8#http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8#http://mg.cttv.vip/673168185
 CCTV13,http://107.150.60.122/live/cctv13hd.m3u8#http://173.208.212.130:8181/1080p/cctv13.m3u8#http://173.208.212.130:8181/720p/cctv13.m3u8#http://192.151.150.154/live/cctv13hd.m3u8#http://198.204.228.26/live/cctv13hd.m3u8#http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8#http://mg.cttv.vip/608807423
 CCTV14,http://107.150.60.122/live/cctv14hd.m3u8#http://173.208.212.130:8181/1080p/cctv14.m3u8#http://173.208.212.130:8181/720p/cctv14.m3u8#http://198.204.228.26/live/cctv14hd.m3u8#http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8#http://mg.cttv.vip/624878440
@@ -30,6 +30,7 @@ CCTV17,http://107.150.60.122/live/cctv17hd.m3u8#http://173.208.212.130:8181/1080
 兵器科技,http://107.150.60.122/live/gfjs.m3u8#http://173.208.212.130:8181/720p/gfjs.m3u8#http://192.151.150.154/live/gfjs.m3u8#http://198.204.228.26/live/gfjs.m3u8#http://bztv.tvbus.cc:8081/cdnlive/gfjs.m3u8
 世界地理,http://107.150.60.122/live/sjdl.m3u8#http://173.208.212.130:8181/720p/sjdl.m3u8#http://192.151.150.154/live/sjdl.m3u8#http://198.204.228.26/live/sjdl.m3u8#http://bztv.tvbus.cc:8081/cdnlive/sjdl.m3u8
 怀旧剧场,http://107.150.60.122/live/hjjc.m3u8#http://173.208.212.130:8181/720p/hjjc.m3u8#http://192.151.150.154/live/hjjc.m3u8#http://198.204.228.26/live/hjjc.m3u8#http://bztv.tvbus.cc:8081/cdnlive/hjjc.m3u8
+央视台球,http://107.150.60.122/live/ystq.m3u8#http://173.208.212.130:8181/720p/ystq.m3u8#http://192.151.150.154/live/ystq.m3u8#http://198.204.228.26/live/ystq.m3u8#http://bztv.tvbus.cc:8081/cdnlive/ystq.m3u8
 天元围棋,http://107.150.60.122/live/gztywq.m3u8#http://192.151.150.154/live/gztywq.m3u8#http://198.204.228.26/live/gztywq.m3u8
 卫生健康,http://107.150.60.122/live/wsjk.m3u8#http://173.208.212.130:8181/720p/wsjk.m3u8
 央视文化精品,http://107.150.60.122/live/ysjp.m3u8#http://173.208.212.130:8181/720p/ysjp.m3u8#http://192.151.150.154/live/ysjp.m3u8#http://198.204.228.26/live/ysjp.m3u8#http://bztv.tvbus.cc:8081/cdnlive/ysjp.m3u8
@@ -129,14 +130,13 @@ CHC影迷电影,http://107.150.60.122/live/chchd.m3u8#http://192.151.150.154/liv
 其它,#genre#
 24小时城市联赛轮播台,http://mg.cttv.vip/915512915#http://wfenf.x3322.net:7788/915512915
 ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
-CCTV11台,http://173.208.212.130:8181/720p/cctv11.m3u8#http://173.208.212.130:8181/1080p/cctv11.m3u8#http://mg.cttv.vip/667987558
 HOY TV,http://r.jdshipin.com/sFw4S
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 TVB Plus,http://r.jdshipin.com/Nr5jq#http://r.jdshipin.com/ndGgS
 ViuTV,http://r.jdshipin.com/vSJvl#http://r.jdshipin.com/TcKr2
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 七台河民生社教,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 上海新闻综合,http://mg.cttv.vip/651632657#http://wfenf.x3322.net:7788/651632657
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 中国航天“逆袭”之路,http://mg.cttv.vip/713600957
@@ -165,7 +165,6 @@ ViuTV,http://r.jdshipin.com/vSJvl#http://r.jdshipin.com/TcKr2
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四海钓鱼,http://mg.cttv.vip/637444975#http://wfenf.x3322.net:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.m3u8
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-央视台球台,http://198.204.228.26/live/ystq.m3u8#http://107.150.60.122/live/ystq.m3u8#http://192.151.150.154/live/ystq.m3u8#http://bztv.tvbus.cc:8081/cdnlive/ystq.m3u8#http://173.208.212.130:8181/720p/ystq.m3u8
 宜兴新闻综合,http://mg.cttv.vip/955227996#http://wfenf.x3322.net:7788/955227996
 山东教育,http://mg.cttv.vip/609154353#http://wfenf.x3322.net:7788/609154353
 广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
@@ -221,6 +220,7 @@ ViuTV,http://r.jdshipin.com/vSJvl#http://r.jdshipin.com/TcKr2
 经典动画大集合,http://mg.cttv.vip/629942219
 经典香港电影,http://mg.cttv.vip/625703337#http://wfenf.x3322.net:7788/625703337
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+美亚电影台,http://iptv.4666888.xyz/iptv2A.php?id=30
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 西安都市,http://112.46.105.20:8009/hls/29/index.m3u8
 西游记续集,http://www.goodiptv.club/douyu/3113309
