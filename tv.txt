@@ -53,7 +53,7 @@ CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LST
 贵州卫视,http://107.150.60.122/live/gzwshd.m3u8#http://192.151.150.154/live/gzwshd.m3u8#http://198.204.228.26/live/gzwshd.m3u8#http://bztv.tvbus.cc:8081/cdnlive/gzws.m3u8
 河北卫视,http://107.150.60.122/live/hewshd.m3u8#http://173.208.212.130:8181/720p/hews.m3u8#http://192.151.150.154/live/hewshd.m3u8#http://198.204.228.26/live/hewshd.m3u8#http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 黑龙江卫视,http://192.151.150.154/live/hljwshd.m3u8#http://198.204.228.26/live/hljwshd.m3u8#http://bztv.tvbus.cc:8081/cdnlive/hljws.m3u8
-湖北卫视,http://107.150.60.122/live/hbwshd.m3u8#http://198.204.228.26/live/hbwshd.m3u8#http://bztv.tvbus.cc:8081/cdnlive/hbws.m3u8#http://mg.cttv.vip/947472496
+湖北卫视,http://107.150.60.122/live/hbwshd.m3u8#http://192.151.150.154/live/hbwshd.m3u8#http://198.204.228.26/live/hbwshd.m3u8#http://bztv.tvbus.cc:8081/cdnlive/hbws.m3u8#http://mg.cttv.vip/947472496
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8#http://173.208.212.130:8181/1080p/hnws.m3u8#http://173.208.212.130:8181/720p/hnws.m3u8#http://192.151.150.154/live/hnwshd.m3u8#http://bztv.tvbus.cc:8081/cdnlive/hnws.m3u8
 海南卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8
 河南卫视,http://107.150.60.122/live/hawshd.m3u8#http://192.151.150.154/live/hawshd.m3u8#http://198.204.228.26/live/hawshd.m3u8
@@ -69,9 +69,10 @@ CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LST
 三沙卫视,http://107.150.60.122/live/ssws.m3u8#http://192.151.150.154/live/ssws.m3u8#http://198.204.228.26/live/ssws.m3u8
 厦门卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060
 山东卫视,http://173.208.212.130:8181/720p/sdws.m3u8#http://192.151.150.154/live/sdwshd.m3u8#http://198.204.228.26/live/sdwshd.m3u8#http://bztv.tvbus.cc:8081/cdnlive/sdws.m3u8
+山东教育卫视,http://mg.cttv.vip/609154353
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8#http://192.151.150.154/live/snwshd.m3u8
 深圳卫视,http://173.208.212.130:8181/720p/szws.m3u8#http://198.204.228.26/live/szwshd.m3u8
-四川卫视,http://192.151.150.154/live/scwshd.m3u8#http://198.204.228.26/live/scwshd.m3u8
+四川卫视,http://192.151.150.154/live/scwshd.m3u8
 天津卫视,http://107.150.60.122/live/tjwshd.m3u8#http://173.208.212.130:8181/720p/tjws.m3u8#http://192.151.150.154/live/tjwshd.m3u8#http://198.204.228.26/live/tjwshd.m3u8#http://bztv.tvbus.cc:8081/cdnlive/tjws.m3u8
 新疆卫视,http://107.150.60.122/live/xjws.m3u8#http://192.151.150.154/live/xjws.m3u8#http://198.204.228.26/live/xjws.m3u8#http://bztv.tvbus.cc:8081/cdnlive/xjws.m3u8
 延边卫视,http://120.76.248.139/live/bfgd/4200000117.m3u8
@@ -169,7 +170,6 @@ ViuTV,http://r.jdshipin.com/vSJvl#http://r.jdshipin.com/TcKr2
 四海钓鱼,http://mg.cttv.vip/637444975#http://120.76.248.139/live/bfgd/4200000229.m3u8
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 宜兴新闻综合,http://mg.cttv.vip/955227996
-山东教育,http://mg.cttv.vip/609154353
 广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
