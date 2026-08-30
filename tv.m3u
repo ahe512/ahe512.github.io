@@ -207,13 +207,13 @@ http://107.150.60.122/live/cwjd.m3u8
 http://192.151.150.154/live/cwjd.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/重温经典.png" group-title="影视频道",重温经典
 http://198.204.228.26/live/cwjd.m3u8
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV电视指南.png" group-title="付费频道",CCTV电视指南
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV电视指南.png" group-title="付费频道",电视指南
 http://107.150.60.122/live/dszn.m3u8
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV电视指南.png" group-title="付费频道",CCTV电视指南
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV电视指南.png" group-title="付费频道",电视指南
 http://192.151.150.154/live/dszn.m3u8
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV电视指南.png" group-title="付费频道",CCTV电视指南
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV电视指南.png" group-title="付费频道",电视指南
 http://198.204.228.26/live/dszn.m3u8
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV电视指南.png" group-title="付费频道",CCTV电视指南
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV电视指南.png" group-title="付费频道",电视指南
 http://bztv.tvbus.cc:8081/cdnlive/dszn.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://tb.zbds.top/logo/第一剧场.png" group-title="影视频道",第一剧场
 http://107.150.60.122/live/dyjc.m3u8
@@ -311,9 +311,9 @@ http://107.150.60.122/live/gztywq.m3u8
 http://192.151.150.154/live/gztywq.m3u8
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://tb.zbds.top/logo/天元围棋.png" group-title="付费频道",天元围棋
 http://198.204.228.26/live/gztywq.m3u8
-#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV卫生健康.png" group-title="付费频道",CCTV卫生健康
+#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV卫生健康.png" group-title="付费频道",卫生健康
 http://107.150.60.122/live/wsjk.m3u8
-#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV卫生健康.png" group-title="付费频道",CCTV卫生健康
+#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV卫生健康.png" group-title="付费频道",卫生健康
 http://173.208.212.130:8181/720p/wsjk.m3u8
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://tb.zbds.top/logo/央视文化精品.png" group-title="付费频道",央视文化精品
 http://107.150.60.122/live/ysjp.m3u8
@@ -825,7 +825,7 @@ http://120.76.248.139/live/bfgd/4200000146.m3u8
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 #EXTINF:-1 tvg-name="象山新闻综合" tvg-logo="https://tb.zbds.top/logo/象山新闻综合.png" group-title="地方频道",象山新闻综合
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-#EXTINF:-1 tvg-name="文成新闻综合" group-title="浙江",文成新闻综合
+#EXTINF:-1 tvg-name="文成综合" tvg-logo="https://tb.zbds.top/logo/文成综合.png" group-title="地方频道",文成综合
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 #EXTINF:-1 tvg-name="青田电视台" tvg-logo="https://tb.zbds.top/logo/青田电视台.png" group-title="地方频道",青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
