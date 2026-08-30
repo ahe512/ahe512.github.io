@@ -154,7 +154,7 @@ ViuTV,http://r.jdshipin.com/vSJvl#http://r.jdshipin.com/TcKr2
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广西都市,http://107.150.60.122/live/gxds.m3u8#http://192.151.150.154/live/gxds.m3u8#http://198.204.228.26/live/gxds.m3u8
 成龙电影,http://107.150.60.122/live/lbcl.m3u8#http://192.151.150.154/live/lbcl.m3u8#http://198.204.228.26/live/lbcl.m3u8
-文成新闻综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 斗鱼港剧,http://www.goodiptv.club/douyu/5061550
 新闻资讯,http://112.46.105.20:8009/hls/18/index.m3u8
 无线新闻台,http://r.jdshipin.com/CkuBd
