@@ -1,3 +1,4 @@
-其它,#genre#,http://p.to:81/diyp/epg.php
+央视频道,#genre#,http://p.to:81/diyp/epg.php
+CCTV1,http://101.66.194.161:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+其它,#genre#
 24小时城市联赛轮播台,http://mg.cttv.vip/915512915
-ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
