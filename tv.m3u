@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=https://baoer.org.cn/e.xml,http://epg.51zmt.top:8000/cc.xml
+#EXTM3U x-tvg-url=“https://baoer.org.cn/e.xml.gz,http://epg.51zmt.top:8000/e.xml.gz”
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" group-title="4K频道",CCTV4K
 http://107.150.60.122/live/cctv4k.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" group-title="4K频道",CCTV4K
