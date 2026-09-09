@@ -202,7 +202,7 @@ Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 中国村庄,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
 中国航天“逆袭”之路,http://mg.cttv.vip/713600957
 中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+中天娱乐台,http://61.221.215.25:8800/hls/47/index.m3u8
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
