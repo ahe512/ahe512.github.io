@@ -699,7 +699,7 @@ http://192.151.150.154/live/btvkk.m3u8
 http://198.204.228.26/live/btvkk.m3u8
 #EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://tb.zbds.top/logo/优优宝贝.png" group-title="少儿频道",优优宝贝
 http://120.76.248.139/live/bfgd/4200000153.m3u8
-#EXTINF:-1 tvg-name="韩国EBS少儿" group-title="其他",韩国EBS少儿
+#EXTINF:-1 tvg-name="韩国EBS少儿" group-title="少儿频道",韩国EBS少儿
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="https://tb.zbds.top/logo/经典动画大集合.png" group-title="少儿频道",经典动画大集合
 http://mg.cttv.vip/629942219
@@ -729,7 +729,7 @@ http://198.204.228.26/live/chchd.m3u8
 http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://tb.zbds.top/logo/CHC影迷电影.png" group-title="影视频道",CHC影迷电影
 http://mg.cttv.vip/952383261
-#EXTINF:-1 tvg-name="古装武侠" group-title="其他",古装武侠
+#EXTINF:-1 tvg-name="古装武侠" group-title="影视频道",古装武侠
 http://www.goodiptv.club/douyu/2793084
 #EXTINF:-1 tvg-name="热门港剧" group-title="影视频道",热门港剧
 http://www.goodiptv.club/douyu/5522351
@@ -783,7 +783,7 @@ http://www.goodiptv.club/douyu/6863367
 http://mg.cttv.vip/625703337
 #EXTINF:-1 tvg-name="抗战经典影片" group-title="影视频道",抗战经典影片
 http://mg.cttv.vip/617432318
-#EXTINF:-1 tvg-name="冰冰影剧" group-title="其他",冰冰影剧
+#EXTINF:-1 tvg-name="冰冰影剧" group-title="影视频道",冰冰影剧
 http://www.goodiptv.club/douyu/74374
 #EXTINF:-1 tvg-name="刀刀影院" group-title="影视频道",刀刀影院
 http://www.goodiptv.club/douyu/747764
@@ -987,7 +987,7 @@ http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c2
 http://mg.cttv.vip/713600957
 #EXTINF:-1 tvg-name="中国蓝新闻" tvg-logo="https://tb.zbds.top/logo/中国蓝新闻.png" group-title="地方频道",中国蓝新闻
 http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
-#EXTINF:-1 tvg-name="中天娱乐" group-title="其他",中天娱乐
+#EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="https://tb.zbds.top/logo/中天娱乐台.png" group-title="港澳台",中天娱乐台
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="乐至综合" tvg-logo="https://tb.zbds.top/logo/乐至综合.png" group-title="地方频道",乐至综合
 http://175.155.106.72:89/live1/live1.m3u8?zsicd
@@ -1319,7 +1319,7 @@ http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
 http://stream3.jlntv.cn:80/aac_psgb/sd/live.m3u8
 #EXTINF:-1 tvg-name="祁门综合" group-title="其他",祁门综合
 http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
-#EXTINF:-1 tvg-name="福州少儿" group-title="其他",福州少儿
+#EXTINF:-1 tvg-name="福州少儿" group-title="少儿频道",福州少儿
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-name="福州生活" tvg-logo="https://tb.zbds.top/logo/福州生活.png" group-title="地方频道",福州生活
 http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
