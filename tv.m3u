@@ -721,7 +721,7 @@ http://61.221.215.25:8800/hls/55/index.m3u8
 http://61.221.215.25:8800/hls/39/index.m3u8
 #EXTINF:-1 tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港澳台",八大综合台
 http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1 tvg-name="三立戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/三立戏剧" group-title="港澳台",三立戏剧
+#EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://tb.zbds.top/logo/三立戏剧.png" group-title="港澳台",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天映画.png" group-title="港澳台",靖天映画
 http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
