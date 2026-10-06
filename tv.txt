@@ -91,7 +91,6 @@ TVBS新闻台,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8#http://61.221
 八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 中天娱乐台,http://61.221.215.25:8800/hls/47/index.m3u8
-ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 少儿频道,#genre#
 卡酷少儿,http://103.72.172.253:8041/hls/385413834/index.m3u8#http://107.150.60.122/live/btvkk.m3u8#http://192.151.150.154/live/btvkk.m3u8#http://198.204.228.26/live/btvkk.m3u8
 优优宝贝,http://120.76.248.139/live/bfgd/4200000153.m3u8
@@ -131,7 +130,6 @@ CHC影迷电影,http://107.150.60.122/live/chchd.m3u8#http://183.237.95.108:9901
 环球旅游,http://120.76.248.139/live/bfgd/4200000147.m3u8
 中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
 北京地方,#genre#
-北京文艺,http://103.72.172.253:8041/hls/346478234/index.m3u8
 北京新闻,http://103.72.172.253:8041/hls/382837277/index.m3u8
 北京影视,http://103.72.172.253:8041/hls/357945484/index.m3u8
 北京财经,http://103.72.172.253:8041/hls/358948176/index.m3u8
