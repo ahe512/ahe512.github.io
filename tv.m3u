@@ -99,8 +99,6 @@ http://198.204.228.26/live/cctv5p.m3u8
 http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="央视频道",CCTV5+
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="央视频道",CCTV5+
-http://mg.cttv.vip/641886773
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://tb.zbds.top/logo/CCTV6.png" group-title="央视频道",CCTV6
 http://107.150.60.122/live/cctv6hd.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://tb.zbds.top/logo/CCTV6.png" group-title="央视频道",CCTV6
@@ -647,8 +645,6 @@ https://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 #EXTINF:-1 tvg-name="美亚C+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/美亚C.png" group-title="港澳台",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
-#EXTINF:-1 tvg-name="美亚C+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/美亚C.png" group-title="港澳台",美亚C+
-http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://tb.zbds.top/logo/美亚电影台.png" group-title="港澳台",美亚电影台
 http://iptv.4666888.xyz/iptv2A.php?id=30
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://tb.zbds.top/logo/TVBS新闻.png" group-title="港澳台",TVBS新闻台
@@ -710,8 +706,6 @@ http://198.204.228.26/live/chcjt.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://tb.zbds.top/logo/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
 http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://tb.zbds.top/logo/CHC影迷电影.png" group-title="影视频道",CHC影迷电影
-http://107.150.60.122/live/chchd.m3u8
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://tb.zbds.top/logo/CHC影迷电影.png" group-title="影视频道",CHC影迷电影
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://tb.zbds.top/logo/CHC影迷电影.png" group-title="影视频道",CHC影迷电影
 http://192.151.150.154/live/chchd.m3u8
@@ -721,8 +715,6 @@ http://198.204.228.26/live/chchd.m3u8
 http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://tb.zbds.top/logo/CHC影迷电影.png" group-title="影视频道",CHC影迷电影
 http://mg.cttv.vip/952383261
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/重温经典.png" group-title="影视频道",重温经典
-http://107.150.60.122/live/cwjd.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/重温经典.png" group-title="影视频道",重温经典
 http://192.151.150.154/live/cwjd.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/重温经典.png" group-title="影视频道",重温经典
@@ -827,8 +819,6 @@ http://103.72.172.253:8041/hls/357945484/index.m3u8
 http://103.72.172.253:8041/hls/358948176/index.m3u8
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://tb.zbds.top/logo/北京生活.png" group-title="地方频道",北京生活
 http://103.72.172.253:8041/hls/366415771/index.m3u8
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://tb.zbds.top/logo/纪实科教.png" group-title="地方频道",纪实科教
-http://103.72.172.253:8041/hls/347295318/index.m3u8
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://tb.zbds.top/logo/纪实科教.png" group-title="地方频道",纪实科教
 http://198.204.228.26/live/btv3.m3u8
 #EXTINF:-1 tvg-name="陕西公共" tvg-logo="https://tb.zbds.top/logo/陕西公共.png" group-title="地方频道",陕西公共
@@ -1343,6 +1333,8 @@ http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 #EXTINF:-1 tvg-name="镇江新闻综合" group-title="其他",镇江新闻综合
 http://cm-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1 tvg-name="长影频道" tvg-logo="https://tb.zbds.top/logo/长影频道.png" group-title="地方频道",长影
+http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="长沙新闻综合" group-title="其他",长沙新闻综合
 http://ls.qingting.fm/live/4877.m3u8
 #EXTINF:-1 tvg-name="长白山电视台" group-title="其他",长白山电视台
