@@ -237,8 +237,6 @@ http://173.208.212.130:8181/1080p/cctv16.m3u8
 http://173.208.212.130:8181/720p/cctv16.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://tb.zbds.top/logo/CCTV16.png" group-title="央视频道",CCTV16
 http://cg1.hunancatv.cn:9090/live/CCTV16_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=7114844658870775790&srchost=172.16.22.158:8060&gid=VUdUekIjmBFSrvnJArQETQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://tb.zbds.top/logo/CCTV16.png" group-title="央视频道",CCTV16
-http://gmxw.7766.org:808/hls/169/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://tb.zbds.top/logo/CCTV17.png" group-title="央视频道",CCTV17
 http://107.150.60.122/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://tb.zbds.top/logo/CCTV17.png" group-title="央视频道",CCTV17
@@ -525,6 +523,8 @@ http://173.208.212.130:8181/720p/jsws.m3u8
 http://198.204.228.26/live/jswshd.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://tb.zbds.top/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://bztv.tvbus.cc:8081/cdnlive/jsws.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://tb.zbds.top/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://mg.cttv.vip/623899368
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://tb.zbds.top/logo/江西卫视.png" group-title="卫视频道",江西卫视
 http://198.204.228.26/live/jxwshd.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://tb.zbds.top/logo/江西卫视.png" group-title="卫视频道",江西卫视
@@ -675,8 +675,6 @@ http://61.221.215.25:8800/hls/56/index.m3u8
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="https://tb.zbds.top/logo/中天娱乐台.png" group-title="港澳台",中天娱乐台
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 tvg-name="ASTRO AOD" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ASTROAOD.png" group-title="港澳台",ASTRO AOD
-http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://tb.zbds.top/logo/卡酷少儿.png" group-title="少儿频道",卡酷少儿
 http://103.72.172.253:8041/hls/385413834/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://tb.zbds.top/logo/卡酷少儿.png" group-title="少儿频道",卡酷少儿
@@ -1161,6 +1159,10 @@ http://stream5.jlntv.cn/wq/sd/live.m3u8
 http://live.iwcmt.cn:90/live/zhxw.m3u8
 #EXTINF:-1 tvg-name="沐川综合" group-title="其他",沐川综合
 http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
+#EXTINF:-1 tvg-name="河源生活" group-title="其他",河源生活
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 tvg-name="河源综合" tvg-logo="https://tb.zbds.top/logo/河源综合.png" group-title="地方频道",河源综合
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="泗洪新闻综合" group-title="其他",泗洪新闻综合
 http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
 #EXTINF:-1 tvg-name="洞头综合" tvg-logo="https://tb.zbds.top/logo/洞头综合.png" group-title="地方频道",洞头综合
